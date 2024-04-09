@@ -50,7 +50,7 @@ img{
 .ficha #gatoMiguel,
 .ficha #gatoPepe {
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right	;
     background-size: cover;
 }
 
